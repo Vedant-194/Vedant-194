@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-194&show_icons=true&locale=en&layout=compact" alt="vedant-194" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-194&" alt="vedant-194" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-194&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></p>
